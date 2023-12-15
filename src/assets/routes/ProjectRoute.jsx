@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Index from "../views";
-import Purschase from "../views/purschase";
+import Index from "../views/Index";
+import Purschase from "../views/Purschase";
 
 const ProjectRoute = () => {
   return (
