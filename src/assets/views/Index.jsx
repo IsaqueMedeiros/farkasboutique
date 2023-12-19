@@ -210,6 +210,12 @@ const Index = () => {
             </a>
           </div>
         </div>
+        <div className=" h-[30rem] w-[45%] absolute ml-[50%]" >  <img
+              src="/media/casa03.webp"
+              loading="lazy"
+              alt="Estevão"
+              className="object-cover w-full center h-full rounded-[2rem]"
+            /> </div>
       </SectionComponent>
 
       <SectionComponent sectionBg="bg-farkasWhite">
@@ -218,7 +224,14 @@ const Index = () => {
             <p className="text-farkasGreen text-4xl sm:text-7xl">Farkas Boutique</p>
           </div>
         <div className=" flex flex-col justify-between  h-[35rem] items-start md:h-auto md:flex-row md:items-center md:justify-around md:w-[100%] md:mb-[5rem]" >
-        <div className="h-[14rem] w-[20rem] md:h-[15rem] md:w-[26rem] md:mt-[-7rem]  bg-farkasGreen rounded-[1rem]" ></div>
+        <div className="h-[14rem] w-[20rem] md:h-[15rem] md:w-[26rem] md:mt-[-7rem]  bg-farkasGreen rounded-[1rem]" >
+        <img
+              src="/media/casa01.webp"
+              loading="lazy"
+              alt="Estevão"
+              className="object-cover w-full center h-full rounded-[2rem]"
+            />
+        </div>
          <a href="https://www.asaas.com/c/320854417892" >
          <button
               type="submit"
@@ -227,7 +240,14 @@ const Index = () => {
               <b>Comprar</b>
             </button>
          </a>
-          <div className="h-[14rem] w-[20rem] md:h-[22.5rem] md:w-[50rem]  bg-farkasGreen rounded-[1rem]" ></div>
+          <div className="h-[14rem] w-[20rem] md:h-[22.5rem] md:w-[50rem]  bg-farkasGreen rounded-[1rem]" >
+          <img
+              src="/media/casa02.webp"
+              loading="lazy"
+              alt="Estevão"
+              className="object-cover w-full center h-full rounded-[2rem]"
+            />
+          </div>
         </div>
 
       </div>
